@@ -1,36 +1,12 @@
 # Coin-shooter
 
 
-Bloom is an ongoing project and has characteristic traits of a bot. Bloom will currently be a multi-purpose bot mainly used to handle server decisions and help with video games. My creator needs money so he doesn't live on the streets :wink:
+Coin shooter is a 3D unity game which main purpose is to test out FPS games.
 
-
-# **Bloom's current functionalities:**
-
-   ・User can get champion specific informations such as builds and runes. 
-  
-   ・User can register their own league of legends profile which will be used on the below command.
-  
-   ・User can use commands to get information about their profile such as champion mastery, live game information, and champion stats.
-  
-   ・There is a delete function which lets the user delete their league of legends account from the database. 
-  
-   ・Command which shows all the currently available champions on rotation.
-
-# **Examples with pictures**
-
-   ・Using the build command for champions
-
-![image](https://user-images.githubusercontent.com/47726384/134890490-e519bcc3-e743-4e2a-a980-42f88fe757cc.png)
-
-   ・Using the profile command for league of legends accounts (still under development, links of champions will be replaced with champion images and mastery points)
-
-![image](https://user-images.githubusercontent.com/47726384/135690575-9bce28e4-837f-4eba-9748-360a4dc1c5e2.png)
-
-   ・Using this command you can see all the current champions that are free to use
-
-![image](https://user-images.githubusercontent.com/47726384/135690634-7b4cbf3f-8209-428b-bae2-98533c8c739b.png)
-
- 
+**What the game includes**
+・ You can shoot coins that float on the screen to get points.
+・ Based on the type of coin, each time you shoot one you get different effects. Such as more points, more coins to spawn, and some coins even give you minus(-) points or are harder to shoot down (the shield coin).
+・The camera movement is smooth and you are given a monochrome green crosshair.
 
 
 # **Donations**
